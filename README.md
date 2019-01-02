@@ -1,0 +1,1 @@
+browser-qt-auto-clicker
